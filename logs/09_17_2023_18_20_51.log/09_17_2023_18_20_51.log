@@ -1,0 +1,37 @@
+[2023-09-17 18:20:56,435] 12 root - INFO - >>>>>> stage Data Ingestion stage started <<<<<<
+[2023-09-17 18:20:56,437] 36 root - INFO - yaml file: config\config.yaml loaded successfully
+[2023-09-17 18:20:56,438] 36 root - INFO - yaml file: params.yaml loaded successfully
+[2023-09-17 18:20:56,438] 54 root - INFO - created directory at: artifacts
+[2023-09-17 18:20:56,439] 54 root - INFO - created directory at: artifacts/data_ingestion
+[2023-09-17 18:20:56,439] 24 root - INFO - File already exists of size: ~ 1189856 KB
+[2023-09-17 18:21:09,633] 15 root - INFO - >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x
+[2023-09-17 18:21:09,633] 21 root - INFO - *******************
+[2023-09-17 18:21:09,635] 22 root - INFO - >>>>>> stage Prepare base model started <<<<<<
+[2023-09-17 18:21:09,636] 36 root - INFO - yaml file: config\config.yaml loaded successfully
+[2023-09-17 18:21:09,637] 36 root - INFO - yaml file: params.yaml loaded successfully
+[2023-09-17 18:21:09,637] 54 root - INFO - created directory at: artifacts
+[2023-09-17 18:21:09,638] 54 root - INFO - created directory at: artifacts/prepare_base_model
+[2023-09-17 18:21:10,170] 359 tensorflow - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2023-09-17 18:21:10,487] 25 root - INFO - >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x
+[2023-09-17 18:21:10,487] 32 root - INFO - *******************
+[2023-09-17 18:21:10,487] 33 root - INFO - >>>>>> stage Training started <<<<<<
+[2023-09-17 18:21:10,492] 36 root - INFO - yaml file: config\config.yaml loaded successfully
+[2023-09-17 18:21:10,494] 36 root - INFO - yaml file: params.yaml loaded successfully
+[2023-09-17 18:21:10,495] 54 root - INFO - created directory at: artifacts
+[2023-09-17 18:21:10,495] 54 root - INFO - created directory at: artifacts\training
+[2023-09-17 18:32:48,254] 36 root - INFO - >>>>>> stage Training completed <<<<<<
+
+x==========x
+[2023-09-17 18:32:48,255] 43 root - INFO - *******************
+[2023-09-17 18:32:48,255] 44 root - INFO - >>>>>> stage Evaluation stage started <<<<<<
+[2023-09-17 18:32:48,259] 36 root - INFO - yaml file: config\config.yaml loaded successfully
+[2023-09-17 18:32:48,261] 36 root - INFO - yaml file: params.yaml loaded successfully
+[2023-09-17 18:32:48,262] 54 root - INFO - created directory at: artifacts
+[2023-09-17 18:33:16,662] 68 root - INFO - json file saved at: scores.json
+[2023-09-17 18:33:16,663] 47 root - INFO - >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x

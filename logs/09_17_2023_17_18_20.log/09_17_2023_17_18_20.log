@@ -1,0 +1,25 @@
+[2023-09-17 17:18:26,199] 12 root - INFO - >>>>>> stage Data Ingestion stage started <<<<<<
+[2023-09-17 17:18:26,202] 36 root - INFO - yaml file: config\config.yaml loaded successfully
+[2023-09-17 17:18:26,203] 36 root - INFO - yaml file: params.yaml loaded successfully
+[2023-09-17 17:18:26,203] 54 root - INFO - created directory at: artifacts
+[2023-09-17 17:18:26,204] 54 root - INFO - created directory at: artifacts/data_ingestion
+[2023-09-17 17:18:26,204] 24 root - INFO - File already exists of size: ~ 1189856 KB
+[2023-09-17 17:18:39,399] 15 root - INFO - >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x
+[2023-09-17 17:18:39,399] 21 root - INFO - *******************
+[2023-09-17 17:18:39,399] 22 root - INFO - >>>>>> stage Prepare base model started <<<<<<
+[2023-09-17 17:18:39,401] 36 root - INFO - yaml file: config\config.yaml loaded successfully
+[2023-09-17 17:18:39,402] 36 root - INFO - yaml file: params.yaml loaded successfully
+[2023-09-17 17:18:39,403] 54 root - INFO - created directory at: artifacts
+[2023-09-17 17:18:39,403] 54 root - INFO - created directory at: artifacts/prepare_base_model
+[2023-09-17 17:18:40,004] 359 tensorflow - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2023-09-17 17:18:40,300] 25 root - INFO - >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x
+[2023-09-17 17:18:40,300] 32 root - INFO - *******************
+[2023-09-17 17:18:40,300] 33 root - INFO - >>>>>> stage Training started <<<<<<
+[2023-09-17 17:18:40,303] 36 root - INFO - yaml file: config\config.yaml loaded successfully
+[2023-09-17 17:18:40,305] 36 root - INFO - yaml file: params.yaml loaded successfully
+[2023-09-17 17:18:40,305] 54 root - INFO - created directory at: artifacts
+[2023-09-17 17:18:40,306] 54 root - INFO - created directory at: artifacts\training

@@ -1,0 +1,26 @@
+[2023-09-17 10:10:11,245] 12 root - INFO - >>>>>> stage Data Ingestion stage started <<<<<<
+[2023-09-17 10:10:11,247] 36 root - INFO - yaml file: config\config.yaml loaded successfully
+[2023-09-17 10:10:11,248] 36 root - INFO - yaml file: params.yaml loaded successfully
+[2023-09-17 10:10:11,248] 54 root - INFO - created directory at: artifacts
+[2023-09-17 10:10:11,249] 54 root - INFO - created directory at: artifacts/data_ingestion
+[2023-09-17 10:10:11,249] 24 root - INFO - File already exists of size: ~ 1189856 KB
+[2023-09-17 10:10:24,131] 15 root - INFO - >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x
+[2023-09-17 10:10:24,131] 21 root - INFO - *******************
+[2023-09-17 10:10:24,131] 22 root - INFO - >>>>>> stage Prepare base model started <<<<<<
+[2023-09-17 10:10:24,134] 36 root - INFO - yaml file: config\config.yaml loaded successfully
+[2023-09-17 10:10:24,135] 36 root - INFO - yaml file: params.yaml loaded successfully
+[2023-09-17 10:10:24,135] 54 root - INFO - created directory at: artifacts
+[2023-09-17 10:10:24,136] 54 root - INFO - created directory at: artifacts/prepare_base_model
+[2023-09-17 10:10:24,829] 359 tensorflow - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2023-09-17 10:10:25,112] 25 root - INFO - >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x
+[2023-09-17 10:10:25,113] 32 root - INFO - *******************
+[2023-09-17 10:10:25,113] 33 root - INFO - >>>>>> stage Training started <<<<<<
+[2023-09-17 10:10:25,115] 36 root - INFO - yaml file: config\config.yaml loaded successfully
+[2023-09-17 10:10:25,116] 36 root - INFO - yaml file: params.yaml loaded successfully
+[2023-09-17 10:10:25,117] 54 root - INFO - created directory at: artifacts
+[2023-09-17 10:10:25,117] 54 root - INFO - created directory at: artifacts\prepare_callbacks\checkpoint_dir
+[2023-09-17 10:10:25,118] 54 root - INFO - created directory at: artifacts\prepare_callbacks\tensorboard_log_dir

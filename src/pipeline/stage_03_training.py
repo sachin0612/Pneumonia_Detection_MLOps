@@ -1,5 +1,5 @@
 from src.config.configuration import ConfigurationManager
-from src.components.prepare_callbacks import PrepareCallback
+#from src.components.prepare_callbacks import PrepareCallback
 from src.components.training import Training
 from src.logger import logging
 from src.exception import CustomException
@@ -15,9 +15,9 @@ class ModelTrainingPipeline:
 
     def main(self):
         config = ConfigurationManager()
-        prepare_callbacks_config = config.get_prepare_callback_config()
-        prepare_callbacks = PrepareCallback(config=prepare_callbacks_config)
-        callback_list = prepare_callbacks.get_tb_ckpt_callbacks()
+        # prepare_callbacks_config = config.get_prepare_callback_config()
+        # prepare_callbacks = PrepareCallback(config=prepare_callbacks_config)
+        # callback_list = prepare_callbacks.get_tb_ckpt_callbacks()
 
 
         training_config = config.get_training_config()
@@ -25,7 +25,7 @@ class ModelTrainingPipeline:
         training.get_base_model()
         training.train_valid_generator()
         training.train(
-            callback_list=callback_list
+            #callback_list=callback_list
         )
 
 

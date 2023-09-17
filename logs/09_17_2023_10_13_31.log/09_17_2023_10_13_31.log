@@ -1,0 +1,50 @@
+[2023-09-17 10:15:21,861] 36 root - INFO - yaml file: config\config.yaml loaded successfully
+[2023-09-17 10:15:21,863] 36 root - INFO - yaml file: params.yaml loaded successfully
+[2023-09-17 10:15:21,864] 54 root - INFO - created directory at: artifacts
+[2023-09-17 10:15:21,865] 54 root - INFO - created directory at: artifacts\prepare_callbacks\checkpoint_dir
+[2023-09-17 10:15:21,866] 54 root - INFO - created directory at: artifacts\prepare_callbacks\tensorboard_log_dir
+[2023-09-17 10:18:07,593] 36 root - INFO - yaml file: config\config.yaml loaded successfully
+[2023-09-17 10:18:07,595] 36 root - INFO - yaml file: params.yaml loaded successfully
+[2023-09-17 10:18:07,596] 54 root - INFO - created directory at: artifacts
+[2023-09-17 10:18:07,596] 54 root - INFO - created directory at: artifacts\prepare_callbacks\checkpoint_dir
+[2023-09-17 10:18:07,596] 54 root - INFO - created directory at: artifacts\prepare_callbacks\tensorboard_log_dir
+[2023-09-17 10:18:43,981] 36 root - INFO - yaml file: config\config.yaml loaded successfully
+[2023-09-17 10:18:43,983] 36 root - INFO - yaml file: params.yaml loaded successfully
+[2023-09-17 10:18:43,984] 54 root - INFO - created directory at: artifacts
+[2023-09-17 10:18:43,985] 54 root - INFO - created directory at: artifacts\prepare_callbacks\checkpoint_dir
+[2023-09-17 10:18:43,985] 54 root - INFO - created directory at: artifacts\prepare_callbacks\tensorboard_log_dir
+[2023-09-17 10:20:36,679] 36 root - INFO - yaml file: config\config.yaml loaded successfully
+[2023-09-17 10:20:36,680] 36 root - INFO - yaml file: params.yaml loaded successfully
+[2023-09-17 10:20:36,681] 54 root - INFO - created directory at: artifacts
+[2023-09-17 10:20:36,682] 54 root - INFO - created directory at: artifacts\prepare_callbacks\checkpoint_dir
+[2023-09-17 10:20:36,682] 54 root - INFO - created directory at: artifacts\prepare_callbacks\tensorboard_log_dir
+[2023-09-17 10:21:11,707] 36 root - INFO - yaml file: config\config.yaml loaded successfully
+[2023-09-17 10:21:11,708] 36 root - INFO - yaml file: params.yaml loaded successfully
+[2023-09-17 10:21:11,709] 54 root - INFO - created directory at: artifacts
+[2023-09-17 10:21:11,710] 54 root - INFO - created directory at: artifacts\prepare_callbacks\checkpoint_dir
+[2023-09-17 10:21:11,710] 54 root - INFO - created directory at: artifacts\prepare_callbacks\tensorboard_log_dir
+[2023-09-17 10:27:49,004] 36 root - INFO - yaml file: config\config.yaml loaded successfully
+[2023-09-17 10:27:49,006] 36 root - INFO - yaml file: params.yaml loaded successfully
+[2023-09-17 10:27:49,007] 54 root - INFO - created directory at: artifacts
+[2023-09-17 10:27:49,007] 54 root - INFO - created directory at: artifacts\prepare_callbacks\checkpoint_dir
+[2023-09-17 10:27:49,008] 54 root - INFO - created directory at: artifacts\prepare_callbacks\tensorboard_log_dir
+[2023-09-17 10:28:26,005] 36 root - INFO - yaml file: config\config.yaml loaded successfully
+[2023-09-17 10:28:26,008] 36 root - INFO - yaml file: params.yaml loaded successfully
+[2023-09-17 10:28:26,008] 54 root - INFO - created directory at: artifacts
+[2023-09-17 10:28:26,009] 54 root - INFO - created directory at: artifacts\prepare_callbacks\checkpoint_dir
+[2023-09-17 10:28:26,010] 54 root - INFO - created directory at: artifacts\prepare_callbacks\tensorboard_log_dir
+[2023-09-17 10:30:51,185] 36 root - INFO - yaml file: config\config.yaml loaded successfully
+[2023-09-17 10:30:51,186] 36 root - INFO - yaml file: params.yaml loaded successfully
+[2023-09-17 10:30:51,187] 54 root - INFO - created directory at: artifacts
+[2023-09-17 10:30:51,187] 54 root - INFO - created directory at: artifacts\prepare_callbacks\checkpoint_dir
+[2023-09-17 10:30:51,187] 54 root - INFO - created directory at: artifacts\prepare_callbacks\tensorboard_log_dir
+[2023-09-17 10:47:42,298] 36 root - INFO - yaml file: config\config.yaml loaded successfully
+[2023-09-17 10:47:42,301] 36 root - INFO - yaml file: params.yaml loaded successfully
+[2023-09-17 10:47:42,302] 54 root - INFO - created directory at: artifacts
+[2023-09-17 10:47:42,303] 54 root - INFO - created directory at: artifacts\prepare_callbacks\checkpoint_dir
+[2023-09-17 10:47:42,303] 54 root - INFO - created directory at: artifacts\prepare_callbacks\tensorboard_log_dir
+[2023-09-17 10:48:25,762] 36 root - INFO - yaml file: config\config.yaml loaded successfully
+[2023-09-17 10:48:25,764] 36 root - INFO - yaml file: params.yaml loaded successfully
+[2023-09-17 10:48:25,765] 54 root - INFO - created directory at: artifacts
+[2023-09-17 10:48:25,766] 54 root - INFO - created directory at: artifacts\prepare_callbacks\checkpoint_dir
+[2023-09-17 10:48:25,766] 54 root - INFO - created directory at: artifacts\prepare_callbacks\tensorboard_log_dir
